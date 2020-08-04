@@ -7,5 +7,5 @@ i have create a medical distinguisher to identify if the object in image is ((he
 ![image](https://user-images.githubusercontent.com/66624381/89342889-17c92a80-d6ac-11ea-9664-0321a99f2dd7.png)  
 TensorFlow is a free and open-source software library for dataflow and differentiable programming across a range of tasks. It is a symbolic math library, and is also used for machine learning applications such as neural networks.  
 ### How to create the model?  
-the easy way is to use Teachable Machine tool. [See the steps]()
+the easy way is to use Teachable Machine tool. [See the steps](https://github.com/AmnahBukair/Machine-Learning-with-tensorflow/blob/master/Techable_machine.md)
 
