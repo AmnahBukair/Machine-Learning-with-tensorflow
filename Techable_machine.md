@@ -20,7 +20,7 @@ test with heart image:
 ![image](https://user-images.githubusercontent.com/66624381/89344668-e69e2980-d6ae-11ea-90d8-15517700206e.png)  
 
 ### 3. Export your model for your projects: sites, apps, and more. You can download your model or host it online for free.
-[Code]()
+[Code](https://github.com/AmnahBukair/Machine-Learning-with-tensorflow/blob/master/code.py)
 
 # Additional
 Lets confuse the model with processed image that is mix between both heart and brain.    
