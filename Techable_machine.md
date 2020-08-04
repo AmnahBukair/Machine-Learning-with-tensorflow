@@ -23,6 +23,6 @@ test with heart image:
 [Code]()
 
 # Additional
-Lets confuse the model with processed image that is mix between both heart and brain.  
-![image](https://user-images.githubusercontent.com/66624381/89344988-6cba7000-d6af-11ea-9dd3-dede48c13275.png)
+Lets confuse the model with processed image that is mix between both heart and brain.    
+![image](https://user-images.githubusercontent.com/66624381/89344988-6cba7000-d6af-11ea-9dd3-dede48c13275.png)   
 as you see the percentage below show how much confidence the machine is.
